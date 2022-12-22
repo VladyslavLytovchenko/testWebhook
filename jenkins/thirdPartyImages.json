@@ -1,4 +1,5 @@
 [
   "firstDependency:0.2.0",
-  "secondDependency:0.1.0"
+  "secondDependency:0.1.0",
+  "thirdDependency:0.1.0"
 ]
