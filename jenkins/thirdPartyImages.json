@@ -2,5 +2,7 @@
   "firstDependency:0.2.0",
   "secondDependency:0.1.0",
   "thirdDependency:0.1.0",
-  "forthDependency:0.2.0"
+  "forthDependency:0.2.0",
+  "fifthDependency:0.2.1",
+  "sixthDependency:0.2.2"
 ]
